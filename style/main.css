@@ -224,6 +224,13 @@ hr {
   .grid-cell:last-child {
     margin-right: 0; }
 
+    <!--- added for setting properties of the images --->
+    .properties {
+    	width: 106.25px;
+        height: 106.25px;
+    }
+    
+
 .tile-container {
   position: absolute;
   z-index: 2; }
